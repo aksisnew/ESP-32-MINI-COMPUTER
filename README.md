@@ -12,5 +12,6 @@ Hi ! hello ! Bonjour! , I'm making a esp 32 based mini computer that can handel 
 - 1 esp 32
 
 ## Other hardwares
-
+- A 3.5 inch screen for showing output
+- A heatsink and fan with smart temprature probe for the main mcu to check when it needs cooling
 
