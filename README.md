@@ -6,3 +6,11 @@ Hi ! hello ! Bonjour! , I'm making a esp 32 based mini computer that can handel 
 - To be able to control output and show output from multimeter, temperature sensors, smoke detectors and various other sensors I will be adding.
 - Being able to have a mini display the esp is connected to, being able to see output on other devices on local network, and also have a  custom keyboard.
 
+## MICRO CONTROLER USING
+
+- 2 esp 32 s3
+- 1 esp 32
+
+## Other hardwares
+
+
